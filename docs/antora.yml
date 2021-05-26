@@ -4,3 +4,4 @@ version: dev
 nav:
   - modules/ROOT/nav.adoc
   - modules/module-one/nav.adoc
+  - modules/test-module/nav.adoc
