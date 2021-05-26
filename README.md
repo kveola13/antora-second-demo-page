@@ -1,1 +1,1 @@
-# antora-second-demo-page
+Second Demo page for Antora
