@@ -1,3 +1,5 @@
 = Welcome to component C
 
 link:{attachmentsdir}/colorpicker.gif[colorize]
+
+link:{attachmentsdir}/test.xsd[xsd file]
