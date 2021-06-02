@@ -3,7 +3,8 @@
 :idprefix:
 :idseparator: -
 :example-caption!:
-:toc-title: Assface
+:toc-title: "Titles"
+:toc-class: none
 
 You can add the following inline styles to your content:
 
