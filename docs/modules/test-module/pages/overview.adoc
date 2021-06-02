@@ -11,7 +11,7 @@ You can add the following inline styles to your content:
 * Monospace
 * Highlight
 
-== Bold & Italic
+= Bold & Italic
 
 You can bold and italic entire phrases, a word, and characters in a word.
 
@@ -34,7 +34,7 @@ _italic phrase_ & __char__acter__s__
 *_bold italic phrase_* & **__char__**acter**__s__**
 ====
 
-== Monospace
+= Monospace
 
 You can monospace entire phrases, a word, and characters in a word.
 
@@ -63,7 +63,7 @@ You can monospace entire phrases, a word, and characters in a word.
 ``**__char__**``acter``**__s__**``
 ====
 
-== Highlight
+= Highlight
 
 You can highlight entire phrases, a word, and characters in a word.
 
