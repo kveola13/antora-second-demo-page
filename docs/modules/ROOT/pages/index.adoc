@@ -1,1 +1,3 @@
 = Welcome to component C
+
+link:{attachmentsdir}/colorpicker.gif[colorize]
